@@ -20,7 +20,7 @@
     "core-js": "^3.6.5",
     "pinia": "^2.0.11",
     "vue": "^3.2.21",
-    "vue-router": "^4.0.12"
+    "vue-router": "^4.0.14"
   },
   "devDependencies": {
     "@capacitor/cli": "3.4.0",
